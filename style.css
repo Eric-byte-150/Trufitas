@@ -133,7 +133,7 @@ nav li a:hover{
 
 /*capa*/
 .capa{
-    background:rgba(22, 22, 22, 0.7) url(imagens/grande2.jpg);
+    background:rgba(22, 22, 22, 0.7) url(grande2.jpg);
     background-size: cover;
     height: 705px;
     background-position:top;
